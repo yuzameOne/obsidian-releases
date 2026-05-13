@@ -24135,4 +24135,11 @@
     "description": "This plugin has not been manually reviewed by Obsidian staff. Copy a citation with file link, line numbers, and a custom prompt for AI agents.",
     "repo": "avinashkanaujiya/obsidian-agentic-note-references"
   }
+  {
+  "id": "inbox-zero",
+  "name": "Inbox Zero",
+  "author": "yuzame",
+  "description": "Dynamic checklists: tag files with #tags, view them as checkboxes in your notes, and delete them permanently with one click. Drag-and-drop ordering preserved across sessions. Keep your vault clean and your inbox at zero.",
+  "repo": "yuzameOne/Inbox-Zero"
+ }
 ]
